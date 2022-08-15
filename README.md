@@ -18,7 +18,13 @@ You can access all Python .py files directly here:
 
 You can learn more about the book here:
 
-* Coming soon
+* [Gumroad](https://superfastpython.gumroad.com/l/pppej)
+* [SuperFastPython](https://superfastpython.com/python-processpoolexecutor-jump-start/)
+* [Amazon Kindle](https://amzn.to/3zVKyfn)
+* [Amazon Paperback](https://amzn.to/3AoAixC)
+* [GoodReads](https://www.goodreads.com/book/show/61989087-python-processpoolexecutor-jump-start)
+* [Google Books](https://books.google.com/books/about?id=P2iBEAAAQBAJ)
+* [Google Play](https://play.google.com/store/books/details?id=P2iBEAAAQBAJ)
 
 ### Book Blurb
 
@@ -40,7 +46,7 @@ You can learn more about the book here:
 >
 > * How to create process pools and when to use them.
 > * How to configure process pools including the number of workers.
-> * How to execute tasks with worker processes and handle for results.
+> * How to execute tasks with worker processes and handle results.
 > * How to execute tasks in the process pool asynchronously.
 > * How to query and get results from handles on asynchronous tasks called futures.
 > * How to wait on and manage diverse collections of asynchronous tasks.
